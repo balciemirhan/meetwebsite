@@ -1,4 +1,4 @@
-# meetwebsite
+# meet website
 ## responsive website
 ![meet1](https://github.com/balciemirhan/meetwebsite/assets/116453429/c3a87b1f-2d0a-4094-be76-13f274db62db)
 ---
